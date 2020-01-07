@@ -1,0 +1,6 @@
+Edit the GHelper.xml file and import it into task scheduler or create your own version in task scheduler with the same outline and start GHelper with a shortcut with the following commands (SEE BELOW) after you have unzipped ArgsHidden.zip into the same folder as GHelper.exe.
+
+"[PATH]\ArgsHidden.exe" /task C:\Windows\System32\schtasks.exe /run /tn "[Scheduled Task Name]"
+
+EXAMPLE:
+"C:\USER\Documents\GHelper\ArgsHidden.exe" /task C:\Windows\System32\schtasks.exe /run /tn "GHelper"

@@ -1,0 +1,11 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2014.01.01
+
+[Profile Settings]
+
+[Set Settings]
+
+[Assignments]
+Set2Button7SetSelect=0
+Set2Button8SetSelect=0

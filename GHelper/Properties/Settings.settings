@@ -1,0 +1,52 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GHelper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="XpadderStartup" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="GamepadConnected" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Xbox 360 Controller</Value>
+    </Setting>
+    <Setting Name="XpadderProfiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Utilities\Xpadder\Controller Profiles\</Value>
+    </Setting>
+    <Setting Name="XpadderLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Utilities\Xpadder\Xpadder.exe</Value>
+    </Setting>
+    <Setting Name="GameShortcutsFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">%APPDATA%\Microsoft\Windows\Start Menu\Programs\Games\, %PROGRAMDATA%\Microsoft\Windows\Start Menu\Programs\Games\</Value>
+    </Setting>
+    <Setting Name="CustomX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Battlefield 3, Dirty Bomb, EVE Online, Halo 2, StarCraft II, Star Conflict, Path of Exile, Wasteland 2, Dota 2, Metro Last Light</Value>
+    </Setting>
+    <Setting Name="MouseX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Blacklight Retribution, Call of Duty Black Ops, Call of Duty Black Ops 2, Call of Duty Modern Warfare, Call of Duty Modern Warfare 2, Crysis 2, F.3.A.R, F.E.A.R. 2, Fallout New Vegas, Far Cry 2, Gears of War, Ghost In The Shell - First Assault, Ghost Recon Future Soldier, Ghostbusters - The Video Game, Mass Effect, Mass Effect 2, Mass Effect 3, Max Payne 3, Medal of Honor Warfighter, Paladins, Spec Ops The Line, Syndicate, The Elder Scrolls V Skyrim, World of Warships</Value>
+    </Setting>
+    <Setting Name="StopGamingTimer" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">12/21/2017 22:00:00</Value>
+    </Setting>
+    <Setting Name="StopGamingReminder" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AlarmSound" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Alarm10.wav</Value>
+    </Setting>
+    <Setting Name="XpadderStartupEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StartWithGame" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /&gt;</Value>
+    </Setting>
+    <Setting Name="GamePadDetection" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UpgradeRequired" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StartupRequest" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
