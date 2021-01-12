@@ -1,7 +1,5 @@
 # GHelper
 
-Donations go a long way https://www.patreon.com/xCONFLiCTiONx
-
 Troubleshooting steps  
 ====================  
 - Make sure your game shortcuts run in directory is correct
